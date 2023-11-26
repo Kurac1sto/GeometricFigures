@@ -1,0 +1,11 @@
+D:\VisualStudioProject\Geometry.Client\Geometry\bin\Debug\net8.0\Geometry.deps.json
+D:\VisualStudioProject\Geometry.Client\Geometry\bin\Debug\net8.0\Geometry.dll
+D:\VisualStudioProject\Geometry.Client\Geometry\bin\Debug\net8.0\Geometry.pdb
+D:\VisualStudioProject\Geometry.Client\Geometry\obj\Debug\net8.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\Geometry.Client\Geometry\obj\Debug\net8.0\Geometry.AssemblyInfoInputs.cache
+D:\VisualStudioProject\Geometry.Client\Geometry\obj\Debug\net8.0\Geometry.AssemblyInfo.cs
+D:\VisualStudioProject\Geometry.Client\Geometry\obj\Debug\net8.0\Geometry.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\Geometry.Client\Geometry\obj\Debug\net8.0\Geometry.dll
+D:\VisualStudioProject\Geometry.Client\Geometry\obj\Debug\net8.0\refint\Geometry.dll
+D:\VisualStudioProject\Geometry.Client\Geometry\obj\Debug\net8.0\Geometry.pdb
+D:\VisualStudioProject\Geometry.Client\Geometry\obj\Debug\net8.0\ref\Geometry.dll

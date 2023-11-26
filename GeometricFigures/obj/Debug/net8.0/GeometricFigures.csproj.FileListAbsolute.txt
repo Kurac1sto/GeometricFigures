@@ -1,0 +1,11 @@
+D:\VisualStudioProject\GeometricFigures\GeometricFigures\bin\Debug\net8.0\GeometricFigures.deps.json
+D:\VisualStudioProject\GeometricFigures\GeometricFigures\bin\Debug\net8.0\GeometricFigures.dll
+D:\VisualStudioProject\GeometricFigures\GeometricFigures\bin\Debug\net8.0\GeometricFigures.pdb
+D:\VisualStudioProject\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.AssemblyInfoInputs.cache
+D:\VisualStudioProject\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.AssemblyInfo.cs
+D:\VisualStudioProject\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.dll
+D:\VisualStudioProject\GeometricFigures\GeometricFigures\obj\Debug\net8.0\refint\GeometricFigures.dll
+D:\VisualStudioProject\GeometricFigures\GeometricFigures\obj\Debug\net8.0\GeometricFigures.pdb
+D:\VisualStudioProject\GeometricFigures\GeometricFigures\obj\Debug\net8.0\ref\GeometricFigures.dll
